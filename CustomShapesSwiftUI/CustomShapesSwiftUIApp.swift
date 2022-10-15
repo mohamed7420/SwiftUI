@@ -11,7 +11,8 @@ import SwiftUI
 struct CustomShapesSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BackgroundAndOverlayBootCamp()
+            
         }
     }
 }
